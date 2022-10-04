@@ -1,8 +1,10 @@
-import './App.css';
+import Counter from './components/counter/Counter';
 
 function App() {
 
-  return <div className="App w-full h-full bg-red-500">v</div>;
+  return <div className="w-screen min-h-screen flex flex-col items-center bg-slate-100">
+    <Counter/>
+  </div>;
 }
 
 export default App;
