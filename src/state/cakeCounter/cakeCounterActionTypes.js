@@ -1,0 +1,4 @@
+export const INCREASE_CAKE_QTY = 'INCREASE_CAKE_QTY'
+export const DECREASE_CAKE_QTY = 'DECREASE_CAKE_QTY'
+export const RESET_CAKE_QTY = 'RESET_CAKE_QTY'
+export const SET_CAKE_QTY = 'SET_CAKE_QTY'
